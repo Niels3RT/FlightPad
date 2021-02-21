@@ -4,7 +4,7 @@ A compact, portable multi axis/buttons/switches joystick for flight simulators.
 
 TODO: more info and documentation, pcb and code are complete.
 
-![top](top.png?raw=true "overview")
+![top](Top.png?raw=true "overview")
 
 ## Parts
 
